@@ -17,7 +17,7 @@ BROkeCart is a fully functional **Spring Boot-based e-commerce backend** that ha
 
 ## 🧰 Tech Stack
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3**
 - **Spring Data JPA**
 - **MySQL**
