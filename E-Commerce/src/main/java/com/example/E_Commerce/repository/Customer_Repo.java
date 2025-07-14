@@ -1,0 +1,9 @@
+package com.example.E_Commerce.repository;
+
+
+import com.example.E_Commerce.model.Customer;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface Customer_Repo extends JpaRepository<Customer,Integer> {
+
+}
